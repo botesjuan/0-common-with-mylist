@@ -1,5 +1,5 @@
 # 0-common-with-mylist Wordlist Usage
-This is short wordlist of my own making for directory web fuzzing
+This is short wordlist I maintain, original from the common wordlist but with few added words of my own used for web fuzzing.
 
 Download clone to Linux host:
 ```bash
