@@ -339,6 +339,7 @@ staticContent.jsp
 techsys
 systech
 metric
+remo
 metrics
 prometheus
 first_steps
