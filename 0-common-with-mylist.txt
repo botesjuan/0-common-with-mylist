@@ -4877,6 +4877,14 @@ master
 masterpages
 master.passwd
 masters
+SuperGucciRainbowCake
+SuperGucci
+RainbowCake
+SuperGucciRainbow
+Cake
+GucciRainbowCake
+Gucci
+Rainbows
 master.txt
 masthead
 match
