@@ -16,6 +16,8 @@ log.txt
 tfgforms
 bursaries
 contactus
+ferox
+feroxbuster
 subscribe
 backupwordpress
 backups
