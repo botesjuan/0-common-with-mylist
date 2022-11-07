@@ -6,6 +6,8 @@ URI
 Pandaviews
 img
 angy
+logs.txt
+logs.pdf
 bambam
 UnitedKingdom123
 1q2q3q
