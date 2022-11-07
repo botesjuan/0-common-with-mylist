@@ -247,6 +247,7 @@ webserv
 gis
 gus
 gas
+whatsapp
 diesel
 petrol
 elec
