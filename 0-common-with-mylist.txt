@@ -16,6 +16,8 @@ C0nt3ntM4n4g3r
 hrconnect
 oracleconnect
 log.txt
+hive
+storesdc
 tfgforms
 bursaries
 contactus
