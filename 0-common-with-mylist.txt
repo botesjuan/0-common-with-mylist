@@ -16,6 +16,7 @@ C0nt3ntM4n4g3r
 hrconnect
 oracleconnect
 log.txt
+rolling
 hive
 storesdc
 tfgforms
