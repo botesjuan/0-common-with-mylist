@@ -605,6 +605,8 @@ messages.txt
 message
 messages
 /announcements.txt
+leaderboard
+leaderboards
 announcement.txt
 announcement
 announcements
