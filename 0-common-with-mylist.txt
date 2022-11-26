@@ -6664,6 +6664,7 @@ secret
 secret!
 secret1
 secret1!
+security.txt
 secret2
 secret.dic
 secrets
